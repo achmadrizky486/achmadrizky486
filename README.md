@@ -3,9 +3,9 @@
 <h3 align="center"> A Junior Frontend Web Developer</h3>
 
 ## 💫 About Me :
-🔭 I’m currently looking for a job
-🌱 I’m currently learning UI Design and Laravel
-⚡ I'm a human
+🔭 I’m currently looking for a job<br>
+🌱 I’m currently learning UI Design and Laravel<br>
+⚡ I'm a human<br>
 
 
 ## 🌐 Connect With Me :
