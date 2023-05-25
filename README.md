@@ -1,10 +1,14 @@
+
 <h1 align="center">Hi 👋, I'm Rizky</h1>
 <h3 align="center"> A Junior Frontend Web Developer</h3>
-# 💫 About Me:
-🔭 I’m currently looking for a job<br>🌱 I’m currently learning UI Design and Laravel<br>⚡ I'm a human<br>📫 How to reach me: just click at the my social media below
+
+## 💫 About Me :
+🔭 I’m currently looking for a job
+🌱 I’m currently learning UI Design and Laravel
+⚡ I'm a human
 
 
-## 🌐 Socials:
+## 🌐 Connect With Me :
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/achmad.rizky.5076) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ach_riz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/achmad-rizky-513875200) 
 
 # 💻 Tech Stack:
@@ -15,9 +19,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=achmadrizky486&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+
+<h1 align="center">Let's have some ☕<br></h1>
+
 [![](https://visitcount.itsvg.in/api?id=achmadrizky486&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h1 align="center">Let's have some coffe!</h1>
-<img src="https://github.githubassets.com/images/modules/profile/profile-first-repo.png" >
+
 
 <!-- ProuRM ( https://gprm.itsvg.in ) -->
